@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="isim">İlhan Mustafa</string>
+    <string name="pzt">Monday</string>
+    <string name="sal">Tuesday</string>
+    <string name="çar">Wednesday</string>
+    <string name="per">Thursday</string>
+    <string name="cum">Friday</string>
+    <string name="cts">Saturday</string>
+    <string name="paz">Sunday</string>
+    <string name="buton1">Button 1</string>
+    <string name="buton2">Button 2</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menu Tasarımı</string>
+
+    <string name="diğer_ekran">Diğer Ekran</string>
+    <string name="tost_mesajı_1">Tost Mesajı 1</string>
+    <string name="tost_mesajı_2">Tost Mesajı 2</string>
+    <string name="snackbar_mesajı_1">SnackBar Mesajı 1</string>
+    <string name="snackbar_mesajı_2">SnackBar Mesajı 2</string>
+    <string name="çıkış">Uygulamadan çıkış</string>
+</resources>

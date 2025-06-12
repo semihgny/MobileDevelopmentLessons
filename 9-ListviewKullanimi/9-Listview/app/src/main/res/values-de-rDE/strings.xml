@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meine App</string>
+    <string name="isim">Mustafa</string>
+    <string name="pzt">Montag</string>
+    <string name="sal">Dienstag</string>
+    <string name="çar">Mittwoch</string>
+    <string name="per">Donnerstag</string>
+    <string name="cum">Freitag</string>
+    <string name="cts">Samstag</string>
+    <string name="paz">Sonntag</string>
+    <string name="buton1">Taste 1</string>
+    <string name="buton2">Taste 2</string>
+</resources>

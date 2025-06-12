@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.menutasarimi.MainActivity">
+    <item
+        android:id="@+id/itemDiğerEkran"
+        android:icon="@android:drawable/ic_menu_always_landscape_portrait"
+        android:orderInCategory="100"
+        android:title="@string/diğer_ekran"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/itemToast1"
+        android:icon="@android:drawable/sym_action_call"
+        android:orderInCategory="101"
+        android:title="@string/tost_mesajı_1"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemToast2"
+        android:icon="@android:drawable/stat_sys_phone_call_on_hold"
+        android:orderInCategory="102"
+        android:title="@string/tost_mesajı_2" />
+    <item
+        android:id="@+id/itemSnackBar1"
+        android:icon="@android:drawable/presence_audio_busy"
+        android:orderInCategory="103"
+        android:title="@string/snackbar_mesajı_1"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemSnackBar2"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:orderInCategory="104"
+        android:title="@string/snackbar_mesajı_2" />
+    <item
+        android:id="@+id/itemÇıkış"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:orderInCategory="105"
+        android:title="@string/çıkış"
+        app:showAsAction="always" />
+</menu>

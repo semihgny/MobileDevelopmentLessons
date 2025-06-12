@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Uygulamam</string>
+    <string name="isim">Mustafa İlhan</string>
+
+    <string name="buton1">Düğme 1</string>
+    <string name="buton2">Düğme 2</string>
+
+    <string name="pzt">Pazartesi</string>
+    <string name="sal">Salı</string>
+    <string name="çar">Çarşamba</string>
+    <string name="per">Perşembe</string>
+    <string name="cum">Cuma</string>
+    <string name="cts">Cumartesi</string>
+    <string name="paz">Pazar</string>
+
+    <array name="iller">
+        <item>Adana</item>
+        <item>Anakara</item>
+        <item>İzmir</item>
+        <item>İstanbul</item>
+        <item>Kayseri</item>
+        <item>Konya</item>
+    </array>
+
+    <array name="günler">
+        <item>@string/pzt</item>
+        <item>@string/sal</item>
+        <item>@string/çar</item>
+        <item>@string/per</item>
+        <item>@string/cum</item>
+        <item>@string/cts</item>
+        <item>@string/paz</item>
+    </array>
+
+
+</resources>
